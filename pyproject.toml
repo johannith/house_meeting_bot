@@ -1,0 +1,8 @@
+[project]
+name = "house_meeting_bot"
+version = "0.1.0"
+dependencies = [
+    "notion-client",
+    "python-dotenv",
+    "ynab"
+] 
